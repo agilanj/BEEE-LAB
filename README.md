@@ -70,7 +70,8 @@ Tabulation:
 
 a.   KVL:
 
-![KVL](https://github.com/user-attachments/assets/7c5f52a7-3c6d-4486-b5d8-12088ddb61ba)
+![KVL](https://github.com/user-attachments/assets/bbe487cc-8487-4d76-9cbb-0b980abfc310)
+
 
 
 b.  KCL:
